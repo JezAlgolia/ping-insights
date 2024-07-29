@@ -1,0 +1,20 @@
+{
+  "name": "js-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@algolia/client-insights": "^0.0.0",
+    "@algolia/client-search": "^4.24.0",
+    "algoliasearch": "^4.24.0",
+    "dotenv": "^16.4.5",
+    "localstorage-polyfill": "^1.0.1",
+    "search-insights": "^2.15.0",
+    "uuid": "^10.0.0"
+  }
+}
